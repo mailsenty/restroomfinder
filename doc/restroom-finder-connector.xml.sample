@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(restroom-finder:greet) -->
+    <restroom-finder:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(restroom-finder:greet) -->
